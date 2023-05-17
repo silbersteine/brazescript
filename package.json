@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@lokalise/node-api": "^9.8.0"
+  }
+}
